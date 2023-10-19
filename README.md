@@ -77,15 +77,23 @@ print("RMSE = ",rmse)
 
 
 ## Output:
-
+## df.head()
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/08ba02f4-5e6c-4da8-841a-890495183518)
+## df.tail()
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/eafaff50-6bba-47cc-9335-c755eac01fa7)
+## Array value of X
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/c37c39b7-c844-454b-a06a-fab88ff2c4ea)
+## Array value of Y
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/8eeb2f26-867d-430c-85fa-ab5206a09a4b)
+## Values of Y prediction
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/26f77809-7230-48ce-832d-e3c65837874c)
+## Array values of Y test
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/fcf9f1f1-5fc3-4ed4-a34b-60998c102665)
+## Training set graph
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/c14400bc-b51d-489e-a4d3-8fc9662aa7fe)
+## Test set graph
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/862089e6-ecf8-472e-b29f-5aab7f8c0702)
+## Values of MSE,MAE and RMSE
 # ![image](https://github.com/Mythilidharman/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119104110/8df5c557-31ac-4dd4-9c28-bf258c531ba1)
 
 ## Result:
